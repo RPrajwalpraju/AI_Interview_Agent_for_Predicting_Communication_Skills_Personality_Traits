@@ -15,4 +15,9 @@ Convolutional Neural Network (CNN)
 Local Binary Pattern
 
 **Disclaimer**
-"Images are used which are available in "
+"Images used which are available in the open source"
+
+
+Further Query:
+rpraju184@gmail.com
+
